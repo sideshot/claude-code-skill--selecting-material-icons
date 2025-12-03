@@ -1,0 +1,11 @@
+{
+  "name": "selecting-material-icons",
+  "description": "Selecting appropriate Material Design icon names for collections, fields, navigation, and UI actions.",
+  "version": "0.1.0",
+  "entry": "SKILL.md",
+  "tags": ["design", "icons", "material", "frontend", "ui", "ux"],
+  "author": "YOUR_NAME_HERE",
+  "license": "MIT"
+}
+
+
